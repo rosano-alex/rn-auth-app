@@ -1,4 +1,4 @@
-<p style="text-align: Left;"><img src="misc/title.png" width="460"></p>
+<p style="text-align: Left;"><img src="misc/logo.png" width="460"></p>
 
 ## Overview
 
